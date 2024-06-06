@@ -1,9 +1,4 @@
-# DSCI552: Machine Learning For Data Science
 
-
-Sure, I can make the description sound more conversational and natural. Here’s a revised version of your README for the DSCI552 course repository:
-
----
 
 # DSCI552: Machine Learning for Data Science
 
