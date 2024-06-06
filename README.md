@@ -20,7 +20,7 @@ By the end of our journey together, you’ll be able to:
 ## Repository Structure
 This GitHub repository is your go-to resource for all homework assignments and the final project related to DSCI 552. It’s organized by topic to make it easy to find both the assignments and their solutions. Here’s a quick guide to what you’ll find inside:
 
-- **Homeworks/**: Contains all the homework assignments organized week by week.
-- **Final Project/**: Holds all the materials related to the final project of the course.
+- **homeworks/**: Contains all the homework assignments organized week by week.
+- **finalproject/**: Holds all the materials related to the final project of the course.
 
 
